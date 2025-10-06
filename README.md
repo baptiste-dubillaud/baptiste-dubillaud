@@ -4,7 +4,7 @@
 
 I build reliable data and user-oriented industrial software. I'm a 26-year-old French software engineer with more than 4 years of experience. My passion for technology started with video games and forums, evolving into a career in software engineering.
 
-See [https://dubillaudb.fr](my website) for more information.
+See (dubillaudb.fr)[my website] for more information.
 
 ## Professional Experience
 
