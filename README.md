@@ -4,6 +4,8 @@
 
 I build reliable data and user-oriented industrial software. I'm a 26-year-old French software engineer with more than 4 years of experience. My passion for technology started with video games and forums, evolving into a career in software engineering.
 
+See (https://dubillaudb.fr)[my website] for more information.
+
 ## Professional Experience
 
 ### Senior Software Engineer at ThinkDeep AI
@@ -54,15 +56,9 @@ Learned the basics of HPC architectures, CPU/GPU programming, and large parallel
 - Web Technologies: HTML, CSS, JS, React-Native
 - Other Skills: HPC architectures, software engineering principles, design patterns
 
-## Contact
-
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: [Your Email](#)
-- GitHub: [Your GitHub Profile](#)
-
 ## Projects and Achievements
 
-- Two applications in the Top 10 of the TotalEnergies "E&P Best Innovators" awards.
+- Two applications in the Top 10 of the TotalEnergies "2024 E&P Best Innovators" awards.
 - Development and optimization of an algorithm to filter data cubes from seismic imaging on Pangea II HPC at TotalEnergies.
 
 ## Interests
