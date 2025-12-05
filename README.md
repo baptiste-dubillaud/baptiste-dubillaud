@@ -1,85 +1,80 @@
-# Hi, I'm Baptiste Dubillaud! 👋
+# Hi, I’m Baptiste Dubillaud 👋
 
-## Software Engineer
+Software Engineer — building reliable, data‑ and user‑oriented industrial software
 
-I build reliable data and user-oriented industrial software. I'm a 26-year-old French software engineer with more than 4 years of experience. My passion for technology started with video games and forums, evolving into a career in software engineering.
+[![Website](https://img.shields.io/badge/Website-dubillaudb.fr-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dubillaudb.fr)
 
-See [my website](https://dubillaudb.fr) for more information.
+---
 
-## Professional Experience
+## About me
 
-### Senior Software Engineer at ThinkDeep AI
-**April 2025 - Present**, Bordeaux, France
+- Senior Software Engineer at ThinkDeep AI (Apr 2025—Present), Bordeaux, France — working on the DeepBrain platform to extract knowledge from documents & data using online and on‑prem LLMs.
+- Former Tech Lead & Full‑Stack at TotalEnergies (Denmark, 2023—2025) — led a team of 7, built GenAI apps, complex UIs, data processing, monitoring, and SAP integration on Azure/Windows servers.
+- Previously Software Engineer at Airbus Defence & Space (2021—2023) — ground/satellite comms software, crypto, and a new testing framework.
+- Earlier Software Engineer and Intern at TotalEnergies (2019—2021) — algorithms and visualization for SISMAGE‑CIG; built internal web tools.
 
-- Working on the **DeepBrain** platform, which extracts knowledge from documents & data using online and on-premise LLM.
+I love tackling data‑intensive and HPC problems, shipping clean UX for complex domains, and putting strong engineering foundations (tests, CI, observability) under everything.
 
-### Tech Lead & Full-Stack Engineer at TotalEnergies Denmark
-**March 2023 - March 2025**, Esbjerg, Denmark
+---
 
-- Led a team of 5 Data Scientists and 2 Software Engineers. Managed Azure resources and Windows servers.
-- Developed applications involving Generative AI, complex user interactions, data processing, health and usage monitoring, and SAP data integration.
+## Tooling I use
 
-### Software Engineer at Airbus Defense & Space
-**October 2021 - February 2023**, Toulouse, France
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=222)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+![MPI](https://img.shields.io/badge/MPI-444?style=flat)
+![OpenMP](https://img.shields.io/badge/OpenMP-425066?style=flat)
 
-- Developed software for managing ground and satellite communications, including encryption and decryption.
-- Created a new testing framework for unit and integration testing.
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=222)
+![Vue.js](https://img.shields.io/badge/Vue.js-42B883?style=flat&logo=vuedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 
-### Software Engineer at TotalEnergies
-**September 2020 - September 2021**, Pau, France
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat&logo=sonarqube&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat&logo=redhat&logoColor=white)
 
-- Developed computation algorithms and visualization tools for the SISMAGE-CIG geophysics platform.
-- Managed 3 interns to develop a web application containing small geophysics tools.
+---
 
-### Software Developer Internship at TotalEnergies
-**May 2019 - August 2019**, Pau, France
+## Highlights
 
-- Designed and developed a well water injection simulation software.
+- 2 apps in the Top 10 of TotalEnergies “2024 E&P Best Innovators”.
+- Deployed and maintained applications used by 100+ people.
+- Developed data processing algorithms managing hundreds of gigabytes of data.
 
-## Education
-
-### Master Degree in Computer Science
-**2018 - 2021**, CY-Tech, Pau, France
-
-Specialization in Big Data frameworks.
-
-### One Year Course in HPC and Data Processing
-**2020 - 2021**, University of La Coruña, Spain
-
-Learned the basics of HPC architectures, CPU/GPU programming, and large parallel data processing.
-
-## Skills
-
-- Programming Languages: Java, C, C++, Python, Fortran, CUDA, MPI, OpenMP
-- Frameworks & Libraries: React, NextJS, FastAPI, Pandas, NumPy, OpenCV, Spark
-- Tools & Platforms: Git/GitHub, Docker, RedHat, SNMP, Jenkins, SonarQube, PostgreSQL, Azure, SAP
-- Web Technologies: HTML, CSS, JS, React-Native
-- Other Skills: HPC architectures, software engineering principles, design patterns
-
-## Projects and Achievements
-
-- Two applications in the Top 10 of the TotalEnergies "2024 E&P Best Innovators" awards.
-- Development and optimization of an algorithm to filter data cubes from seismic imaging on Pangea II HPC at TotalEnergies.
+---
 
 ## Interests
 
-- Sports: Training for triathlon, completed first marathon in Copenhagen in May 2024.
-- Reading: Enjoys a wide variety of topics, from fiction like "A Song of Ice and Fire" to non-fiction such as "The Grand Chessboard."
-- Video Games: Enjoys playing games like Urban Terror, Battlefield 3, Cyberpunk 2077, Age of Empires II, and Mass Effect.
+- Triathlon and endurance sports — first marathon in Copenhagen (May 2024).
+- Reading across fiction and non‑fiction (ASOIAF, strategy, history).
+- Video games: Urban Terror, BF3, Cyberpunk 2077, AoE II, Mass Effect.
 
+---
 
+## GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=baptiste-dubillaud&show_icons=true&hide_title=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baptiste-dubillaud&layout=compact&langs_count=8&card_width=320&theme=transparent)
+
+---
+
+If you want the long version of my story, projects, and writing, visit my website:
+
+➡️ [dubillaudb.fr](https://dubillaudb.fr)
 
 <!--
-**zfe-dev/zfe-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Optional: add socials here once you want them public
+<a href="https://www.linkedin.com/in/your-handle">LinkedIn</a> • <a href="mailto:you@example.com">Email</a>
 -->
