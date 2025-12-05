@@ -87,11 +87,8 @@ HPC : ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&lo
 - Reading across fiction and non‑fiction (strategy, history, politic).
 - Video games: Urban Terror, BF3, Cyberpunk 2077, AoE II, Mass Effect.
 
-If you want the long version of my story, projects, and writing, visit my website:
+If you want the long version of my story and projects, visit my website:
 
 ➡️ [dubillaudb.fr](https://dubillaudb.fr) • ➡️ [LinkedIn](https://www.linkedin.com/in/baptiste-dubillaud/?locale=en_US)
 
-<!-- <a href="https://www.linkedin.com/in/baptiste-dubillaud/?locale=en_US">LinkedIn</a> -->
-
-<!--  • <a href="b">Email</a> -->
 
