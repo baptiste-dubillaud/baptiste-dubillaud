@@ -1,6 +1,6 @@
 # Hi, I’m Baptiste Dubillaud 👋
 
-Software Engineer — building reliable, data‑ and user‑oriented industrial software
+Freelance AI Software Engineer — building reliable, data‑ and user‑oriented industrial software
 
 [![Website](https://img.shields.io/badge/Website-dubillaudb.fr-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dubillaudb.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-baptiste--dubillaud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baptiste-dubillaud/?locale=en_US)
@@ -8,7 +8,8 @@ Software Engineer — building reliable, data‑ and user‑oriented industrial 
 
 ## About me
 
-- Senior Software Engineer at ThinkDeep AI (Apr 2025—Present), Bordeaux, France — working on the DeepBrain platform to extract knowledge from documents & data using online and on‑prem LLMs.
+- Freelance Tech-Lead & AI Software Engineer (Apr 2026-Present), Pau/Bordeaux/Paris, France - working on scalable AI products.
+- Tech-Lead & Software Engineer at ThinkDeep AI (Apr 2025—Apr 2026), Bordeaux, France — working on the DeepBrain platform to extract knowledge from documents & data using online and on‑prem LLMs.
 - Former Tech Lead & Full‑Stack at TotalEnergies (Denmark, 2023—2025) — led a team of 7, built GenAI apps, complex UIs, data processing, monitoring, and SAP integration on Azure/Windows servers.
 - Previously Software Engineer at Airbus Defence & Space (2021—2023) — ground/satellite comms software, crypto, and a new testing framework.
 - Earlier Software Engineer and Intern at TotalEnergies (2019—2021) — algorithms and visualization for SISMAGE‑CIG; built internal web tools.
